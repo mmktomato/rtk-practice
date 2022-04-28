@@ -1,0 +1,15 @@
+.pokemonListOuter {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 10px;
+}
+
+.pokemonListItem {
+  border: solid 1px;
+  padding: 70px;
+  text-align: center;
+  cursor: pointer;
+}
+
+
